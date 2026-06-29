@@ -1,7 +1,16 @@
+import Navbar from "./sections/Navbar";
+
 function App() {
   return (
-    <div className="bg-primary text-white p-10">
-      Testing @theme
+    <div className="container mx-auto max-w-7xl">
+      < Navbar />
+      {/* hero */}
+      {/* about */}
+      {/* projects */}
+      {/* experience */}
+      {/* testimonials */}
+      {/* contact */}
+      {/* footer */}
     </div>
   );
 }
