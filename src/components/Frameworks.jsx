@@ -15,7 +15,7 @@ export default function Frameworks() {
     "javascript",
     "icons8-browserstack-logo",
     "react",
-    "free-postman-logo_svgstack_com_51171782737306",
+    "postman",
     "tailwindcss",
     "icons8-selenium",
     "spring-boot-svgrepo-com",

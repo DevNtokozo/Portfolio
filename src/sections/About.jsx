@@ -33,8 +33,9 @@ const About = () => {
                 <p className='flex items-end text-5xl text-gray-500'>CODE</p>
                 <Card style={{rotate: '75deg', top: '30%', left:'20%' }} text="Programming" containerRef={grid2Container} />
                 <Card style={{rotate: '-30deg', top: '60%', left:'45%' }} text="QA Testing" containerRef={grid2Container} />
-                <Card style={{rotate: '90deg', bottom: '30%', left:'70%' }} text="Design Principles" containerRef={grid2Container} />
+                <Card style={{rotate: '10deg', bottom: '30%', left:'70%' }} text="BSc Information Systems & Mathematics" containerRef={grid2Container} />
                 <Card style={{rotate: '-45deg', top: '55%', left:'0%' }} text="Solid Understanding" containerRef={grid2Container} />
+                
             </div>
         </div>
         {/* Grid 3 */}
