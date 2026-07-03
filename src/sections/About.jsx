@@ -21,7 +21,8 @@ const About = () => {
                 <p className='subtext'>
                     Over the last couple of years, 
                     I have developed my QA skills 
-                    and honed in on my frontend and backend dev skills as well.                     
+                    and honed in on my frontend and backend dev skills as well.
+                    These skills are accompanied by a BSc Information Systems & Mathematics degree from UNISA.                       
                 </p>
             </div>
             <div className='absolute inset-x-0 pointer-events-none-bottom-4 h-1/2
@@ -33,7 +34,7 @@ const About = () => {
                 <p className='flex items-end text-5xl text-gray-500'>CODE</p>
                 <Card style={{rotate: '75deg', top: '30%', left:'20%' }} text="Programming" containerRef={grid2Container} />
                 <Card style={{rotate: '-30deg', top: '60%', left:'45%' }} text="QA Testing" containerRef={grid2Container} />
-                <Card style={{rotate: '10deg', bottom: '30%', left:'70%' }} text="BSc Information Systems & Mathematics" containerRef={grid2Container} />
+                <Card style={{rotate: '10deg', bottom: '30%', left:'70%' }} text="Design Principles" containerRef={grid2Container} />
                 <Card style={{rotate: '-45deg', top: '55%', left:'0%' }} text="Solid Understanding" containerRef={grid2Container} />
                 
             </div>
