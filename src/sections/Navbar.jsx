@@ -4,16 +4,16 @@ import { motion } from 'motion/react';
 function Navigation(){
     return <ul className='nav-ul'>
         <li className='nav-li'>
-        <a className='nav-link' href="#home">Home</a>
+        <a className='nav-link' href="#home"></a>
         </li>
         <li className='nav-li'>
-        <a className='nav-link' href="#about">About</a>
+        <a className='nav-link' href="#about"></a>
         </li>
         <li className='nav-li'>
-        <a className='nav-link' href="#work">Work</a>
+        <a className='nav-link' href="#work"></a>
         </li>
         <li className='nav-li'>
-        <a className='nav-link' href="#contact">Contact</a>
+        <a className='nav-link' href="#contact"></a>
         </li>
 
         </ul>
@@ -21,10 +21,10 @@ function Navigation(){
 const Navbar = () => {
     const[isOpen, setIsOpen] = useState(false);
   return (
-    <div className='fixed inset-x-0 z-20 w-full backdrop-blur-lg bg-primary/40 '>
+    <div className='fixed inset-x-0 z-50 w-full backdrop-blur-lg bg-primary/40 '>
       <div className='mx-auto c-space max-w-7xl'>
         <div className='flex items-center justify-between py-2 sm:py-8'>
-            <a href="/"
+            <a href="#home"
             className='text-xl font-bold transition-colors
              text-neutral-400 hover:text-white'>
                 DevNtokozo                
@@ -46,7 +46,7 @@ const Navbar = () => {
        initial={{opacity: 0, x: -10}}
        animate={{opacity: 1, x: 0}}
        style={{maxHeight:"100vh"}}
-       transition={{dration: 1}}>
+       transition={{ duration: 1}}>
         <nav className='pb-5'><Navigation/></nav>
       </motion.div>)}
     </div>

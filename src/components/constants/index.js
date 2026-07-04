@@ -146,12 +146,7 @@ export const experiences = [
       '•	Solid understanding of software testing principles, including functional, regression, integration, and system testing',
       '•	Proficient in programming languages such as Java or JavaScript for test automation', 
       '•	Strong understanding of software testing methodologies (Agile, Scrum) and SDLC/STLC processes', 
-      '•	Developed and executed automated test suites to improve test coverage and reduce manual testing effort', 
-      '•	Experience integrating automated tests into CI/CD pipelines using tools like Jenkins', 
-      '•	Skilled in API testing using tools such as Postman and REST frameworks ',
-      '•	Ability to identify, document, and track bugs using tools like Jira ',
-      '•	Knowledge of version control systems like Git', 
-      '•	Strong analytical and problem-solving skills with attention to detail', 
+      '•	Developed and executed automated test suites to improve test coverage and reduce manual testing effort',       
       '•	Experience working in collaborative team environments and participating in code reviews',
       '•	Client exposure: Evelyn Partners-Financial Services (UK), using Playwright',
 
