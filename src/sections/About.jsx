@@ -20,9 +20,9 @@ const About = () => {
                 <p className='headtext'>Hi, I'm Ntokozo Mbuli</p>
                 <p className='subtext'>
                     Over the last couple of years, 
-                    I have developed my QA skills 
-                    and honed in on my frontend and backend dev skills as well.
-                    These skills are accompanied by a BSc Information Systems & Mathematics degree from UNISA.                       
+                    I have developed my QA technical skills 
+                    and honed in on my frontend and backend dev abilities as well.
+                    These proficiencies are accompanied by a BSc Information Systems & Mathematics degree from UNISA.                       
                 </p>
             </div>
             <div className='absolute inset-x-0 pointer-events-none-bottom-4 h-1/2

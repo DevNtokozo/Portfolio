@@ -8,8 +8,7 @@ export const myProjects = [
       "Developed a responsive e-commerce web application using React.js,",
       "HTML5, and CSS3 that allows users to browse products, view product details,",
       " add items to a shopping cart, and complete purchases through an interactive checkout process.",
-       "The application features a modern user interface, responsive design for mobile and desktop devices,", 
-       "product listings, cart management, and seamless navigation to enhance the online shopping experience."
+       
     ],
     href: "",
     logo: "",
@@ -45,9 +44,8 @@ export const myProjects = [
     subDescription: [
       "Developed a full-stack recipe-sharing web application that enables users to create, share,",
       " and discover cooking recipes. The platform allows users to browse recipes, view detailed", 
-      "ingredients and cooking instructions, and perform full CRUD (Create, Read, Update, Delete)", 
-      "operations on recipe data. The application was designed with a responsive and user-friendly", 
-      "interface to provide a seamless experience across desktop and mobile devices."
+      "ingredients and cooking instructions, and perform full CRUD (Create, Read, Update, Delete) operations.", 
+      
     ],
     href: "",
     logo: "",
@@ -89,7 +87,7 @@ export const myProjects = [
       'Developed a real-time chat application that enables users to send and', 
       'receive instant messages through a modern and responsive interface. The application', 
       'provides seamless communication by leveraging Firebase for real-time data synchronization ',
-      'and authentication, ensuring messages are delivered instantly across connected users.'
+      
     ],
     href: "",
     logo: "",
