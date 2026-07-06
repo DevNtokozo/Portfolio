@@ -1,6 +1,6 @@
 import React from 'react'
 import Card from '../components/Card'
-import { Globe } from '../components/globe';
+
 import CopyEmailButton from '../components/CopyEmailButton';
 import Frameworks from '../components/Frameworks';
 
@@ -46,7 +46,7 @@ const About = () => {
                 <p className='subtext'>I'm based in Johannesburg, South Africa, and open to remote and hybrid-roles.</p>
             </div>
             <figure className='absolute left-[30%] top-[10%] '>
-                <Globe/>
+                {/*<Globe/>*/}
             </figure>
         </div>
         {/* Grid 4 */}

@@ -10,7 +10,7 @@ export const myProjects = [
       " add items to a shopping cart, and complete purchases through an interactive checkout process.",
        
     ],
-    href: "",
+    href: "https://e-commerce-omega-nine-73.vercel.app/",
     logo: "",
     image: "/assets/projects/ecommerce_web.svg",
     tags: [
