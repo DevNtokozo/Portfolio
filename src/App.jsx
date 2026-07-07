@@ -15,17 +15,12 @@ function App() {
       <Projects />
        <Experiences />
        <Contact />
-       <Footer/>
-      
-      
-      
-      
-      
-      
+       <Footer/>   
+          
+            
      
-    
-     
-      
+        
+         
       
     </div>
   );
