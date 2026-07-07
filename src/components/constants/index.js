@@ -3,7 +3,7 @@ export const myProjects = [
     id: 1,
     title: "E-commerce Website",
     description:
-      "An e-commerce website where users can browse products, add them to a cart, and make purchases.",
+      "An e-commerce website where users can browse products, and make purchases.",
     subDescription: [
       "Developed a responsive e-commerce web application using React.js,",
       "HTML5, and CSS3 that allows users to browse products, view product details,",
@@ -124,12 +124,12 @@ export const mySocials = [
   {
     name: "WhatsApp",
     href: "https://wa.me/27727077419",
-    icon: "/assets/socials/whatsapp.svg",
+    icon: "/assets/socials/whatsapp-1.svg",
   },
   {
     name: "Linkedin",
     href: "https://www.linkedin.com/in/ntokozo-mbuli-580895198/",
-    icon: "/assets/socials/linkedin.svg",
+    icon: "/assets/socials/linkedin-1.svg",
   },
  
 ];
