@@ -20,7 +20,7 @@ const HeroText = () => {
              initial={{opacity: 0, x: -50}}
              animate={{opacity:1, x: 0}}
              transition={{delay: 1.2}}>
-                A QA Engineer <br/> Dedicated to testing
+                A Software Engineer <br/> Dedicated to Crafting
             </motion.p>
             <motion.div><FlipWords 
             initial={{opacity: 0, x: -50}}
@@ -45,7 +45,7 @@ const HeroText = () => {
             text-neutral-300'  
             initial={{opacity: 0, x: -50}}
             animate={{opacity:1, x: 0}}
-            transition={{delay: 1.2}}>Testing</motion.p>
+            transition={{delay: 1.2}}>Building</motion.p>
             <motion.div>
                 <FlipWords words={words}
                 initial={{opacity: 0, x: -50}}
