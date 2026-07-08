@@ -36,7 +36,7 @@ export const myProjects = [
       },
     ],
   },
-  {
+ /* {
     id: 2,
     title: "Cookshare website",
     description:
@@ -77,7 +77,7 @@ export const myProjects = [
         path: "/assets/logos/java-svgrepo-com.svg",
       },
     ],
-  },
+  },*/
   {
     id: 3,
     title: "Chat App",

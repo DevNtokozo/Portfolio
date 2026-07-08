@@ -4,7 +4,7 @@ import { motion } from 'motion/react'
 
 
 const HeroText = () => {
-  const words = ["Secure", "Tested", "Modern"]
+  const words = ["Secure", "Scalable", "Modern"]
   return (
     <div className='z-10 mt-20 text-center md:mt-40 
     md:text-left rounded-3xl bg-clip-text'>
@@ -20,7 +20,7 @@ const HeroText = () => {
              initial={{opacity: 0, x: -50}}
              animate={{opacity:1, x: 0}}
              transition={{delay: 1.2}}>
-                A Developer/QA <br/> Dedicated to Crafting
+                A QA Engineer <br/> Dedicated to testing
             </motion.p>
             <motion.div><FlipWords 
             initial={{opacity: 0, x: -50}}
@@ -45,7 +45,7 @@ const HeroText = () => {
             text-neutral-300'  
             initial={{opacity: 0, x: -50}}
             animate={{opacity:1, x: 0}}
-            transition={{delay: 1.2}}>Building</motion.p>
+            transition={{delay: 1.2}}>Testing</motion.p>
             <motion.div>
                 <FlipWords words={words}
                 initial={{opacity: 0, x: -50}}
