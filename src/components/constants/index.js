@@ -77,7 +77,7 @@ export const myProjects = [
         path: "/assets/logos/java-svgrepo-com.svg",
       },
     ],
-  },*/
+  },
   {
     id: 3,
     title: "Chat App",
@@ -114,7 +114,7 @@ export const myProjects = [
         path: "/assets/logos/css3.svg",
       },
     ],
-  },
+  },*/
   
     
   
