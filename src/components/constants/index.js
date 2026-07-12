@@ -69,7 +69,7 @@ export const myProjects = [
       {
         id: 4,
         name: "Spring Boot",
-        path: "/assets/logos/spring-boot-svgrepo-com.svg",
+        path: "/assets/logos/spring-boot.svg",
       },
       {
         id: 5,

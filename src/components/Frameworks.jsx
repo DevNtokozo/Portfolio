@@ -18,7 +18,7 @@ export default function Frameworks() {
     "postman",
     "tailwindcss",
     "icons8-selenium",
-    "spring-boot-svgrepo-com",
+    "spring-boot",
     "playwright",
   ];
   return (
