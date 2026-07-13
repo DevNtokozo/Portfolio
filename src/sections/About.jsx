@@ -21,7 +21,7 @@ const About = () => {
                 <p className='subtext'>
                     Over the last couple of years, 
                     I have developed my QA technical skills 
-                    and honed in on my full-stack dev abilities as well.
+                    and honed in on my Java full-stack abilities as well.
                     These proficiencies are accompanied by a BSc Information Systems & Mathematics degree from UNISA.                       
                 </p>
             </div>
