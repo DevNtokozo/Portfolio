@@ -39,7 +39,7 @@ export const myProjects = [
   
    {
   id: 2,
-  title: "Pinky Hearts Daycare Management System",
+  title: "Pinky Hearts Day Care Management System",
   description:
     "A full-stack daycare management system for managing children, parents, teachers, classrooms, and daily operations.",
 
