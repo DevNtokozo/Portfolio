@@ -7,7 +7,7 @@ export const myProjects = [
     subDescription: [
       "Developed a responsive e-commerce web application using React.js,",
       "HTML5, and CSS3 that allows users to browse products, view product details,",
-      " add items to a shopping cart, and complete purchases through an interactive checkout process.",
+      
        
     ],
     href: "https://e-commerce-three-blond-92.vercel.app/",
@@ -98,7 +98,7 @@ export const myProjects = [
     "Developed a full-stack healthcare management application using React, Spring Boot, and MySQL to digitize hospital administration and improve patient care workflows.",
     "Implemented secure user authentication and role-based access while developing complete CRUD modules for doctors, patients, appointments, and medical records.",
     
-    "Integrated RESTful APIs between the frontend and backend, creating a responsive and scalable application with modern UI components using React and Tailwind CSS."
+    
   ],
 
   href: "",

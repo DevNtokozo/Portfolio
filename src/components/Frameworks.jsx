@@ -2,7 +2,7 @@ import { OrbitingCircles } from "./OrbitingCircles";
 
 export default function Frameworks() {
   const skills = [
-    "github2",
+    "github",
     "cypress",
     "mysql",
     "java",
