@@ -36,85 +36,109 @@ export const myProjects = [
       },
     ],
   },
- /* {
-    id: 2,
-    title: "Cookshare website",
-    description:
-      "A social platform for sharing and discovering recipes.",
-    subDescription: [
-      "Developed a full-stack recipe-sharing web application that enables users to create, share,",
-      " and discover cooking recipes. The platform allows users to browse recipes, view detailed", 
-      "ingredients and cooking instructions, and perform full CRUD (Create, Read, Update, Delete) operations.", 
-      
-    ],
-    href: "",
-    logo: "",
-    image: "/assets/projects/Cookshare.svg",
-    tags: [
-      {
-        id: 1,
-        name: "postman",
-        path: "/assets/logos/postman.svg",
-      },
-      {
-        id: 2,
-        name: "React",
-        path: "/assets/logos/react.svg",
-      },
-      {
-        id: 3,
-        name: "MySQL",
-        path: "/assets/logos/mysql-logo-svgrepo-com.svg",
-      },
-      {
-        id: 4,
-        name: "Spring Boot",
-        path: "/assets/logos/spring-boot.svg",
-      },
-      {
-        id: 5,
-        name: "Java",
-        path: "/assets/logos/java-svgrepo-com.svg",
-      },
-    ],
-  },
+  
+   {
+  id: 2,
+  title: "Pinky Hearts Day Care Management System",
+  description:
+    "A full-stack daycare management system for managing children, parents, teachers, classrooms, and daily operations.",
+
+  subDescription: [
+    "Developed a full-stack daycare management system using React, Spring Boot, and MySQL to streamline childcare administration and improve operational efficiency.",
+    "Implemented secure user authentication, parent and child registration, teacher management, classroom management, and attendance tracking with complete CRUD functionality.",    
+    
+  ],
+
+  href: "",
+  logo: "",
+  image: "/assets/projects/PinkyHearts.svg",
+
+  tags: [
+    {
+      id: 1,
+      name: "Postman",
+      path: "/assets/logos/postman.svg",
+    },
+    {
+      id: 2,
+      name: "React",
+      path: "/assets/logos/react.svg",
+    },
+    {
+      id: 3,
+      name: "MySQL",
+      path: "/assets/logos/mysql.svg",
+    },
+    {
+      id: 4,
+      name: "Spring Boot",
+      path: "/assets/logos/spring-boot.svg",
+    },
+    {
+      id: 5,
+      name: "Java",
+      path: "/assets/logos/java.svg",
+    },
+    {
+      id: 6,
+      name: "Tailwind CSS",
+      path: "/assets/logos/tailwindcss.svg",
+    },
+    
+  ],
+},
   {
-    id: 3,
-    title: "Chat App",
-    description:
-      "A real-time chat application with a modern UI.",
-    subDescription: [
-      'Developed a real-time chat application that enables users to send and', 
-      'receive instant messages through a modern and responsive interface. The application', 
-      'provides seamless communication by leveraging Firebase for real-time data synchronization ',
-      
-    ],
-    href: "",
-    logo: "",
-    image: "/assets/projects/Chat_App.svg",
-    tags: [
-      {
-        id: 1,
-        name: "javascript",
-        path: "/assets/logos/javascript.svg",
-      },
-      {
-        id: 2,
-        name: "React",
-        path: "/assets/logos/react.svg",
-      },
-      {
-        id: 3,
-        name: "firebase",
-        path: "/assets/logos/firebase-svgrepo-com.svg",
-      },
-      {
-        id: 4,
-        name: "CSS",
-        path: "/assets/logos/css3.svg",
-      },
-    ],
-  },*/
+  id: 3,
+  title: "HealthSync Hospital Management System",
+
+  description:
+    "A full-stack hospital management system designed to streamline healthcare operations through secure patient, doctor, appointment, and medical record management.",
+
+  subDescription: [
+    "Developed a full-stack healthcare management application using React, Spring Boot, and MySQL to digitize hospital administration and improve patient care workflows.",
+    "Implemented secure user authentication and role-based access while developing complete CRUD modules for doctors, patients, appointments, and medical records.",
+    
+    "Integrated RESTful APIs between the frontend and backend, creating a responsive and scalable application with modern UI components using React and Tailwind CSS."
+  ],
+
+  href: "",
+  logo: "",
+  image: "/assets/projects/HealthSync.svg",
+
+  tags: [
+    {
+      id: 1,
+      name: "Postman",
+      path: "/assets/logos/postman.svg",
+    },
+    {
+      id: 2,
+      name: "React",
+      path: "/assets/logos/react.svg",
+    },
+    {
+      id: 3,
+      name: "MySQL",
+      path: "/assets/logos/mysql.svg",
+    },
+    {
+      id: 4,
+      name: "Spring Boot",
+      path: "/assets/logos/spring-boot.svg",
+    },
+    {
+      id: 5,
+      name: "Java",
+      path: "/assets/logos/java.svg",
+    },
+    {
+      id: 6,
+      name: "Tailwind CSS",
+      path: "/assets/logos/tailwindcss.svg",
+    },
+    
+  ],
+},
   
     
   
@@ -131,7 +155,11 @@ export const mySocials = [
     href: "https://www.linkedin.com/in/ntokozo-mbuli-580895198/",
     icon: "/assets/socials/linkedin-1.svg",
   },
- 
+ {
+    name: "Github",
+    href: "https://github.com/DevNtokozo/",
+    icon: "/assets/socials/github2.svg",
+  },
 ];
 
 export const experiences = [

@@ -2,22 +2,23 @@ import { OrbitingCircles } from "./OrbitingCircles";
 
 export default function Frameworks() {
   const skills = [
-    "github",
+    "github2",
     "cypress",
-    "mysql-logo-svgrepo-com",
-    "java-svgrepo-com",
+    "mysql",
+    "java",
     "css3",
     "visualstudiocode",
     "appium",
     "git",
-    "icons8-intellij-idea",
+    "chatgpt",
+    "intellij-idea",
     "html5",
     "javascript",
     "apache-jmeter",
     "react",
     "postman",
     "tailwindcss",
-    "icons8-selenium",
+    "selenium",
     "spring-boot",
     "playwright",
   ];
