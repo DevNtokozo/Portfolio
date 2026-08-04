@@ -192,20 +192,7 @@ export const experiences = [
 
     ],
   },
-  {
-    title: "Software Tester Trainee",
-    job: "Automation & Manual Testing",
-    date: "2023-2024",
-    contents: [
-     '•	Successfully completed a Software Testing Learnership focused on manual and automation testing', 
-     '•	Learned the Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC), and Agile software development methodologies', 
-     '•	Designed and executed test cases, test scenarios, and test scripts for web applications.', 
-     '•	Performed functional, regression, exploratory, usability, and user acceptance testing',  
-     '•	Logged, tracked, and verified software defects using defect management tools.',
-     '•	Gained practical experience with Selenium WebDriver, Java, Postman, SQL, and test documentation.',
-
-    ],
-  },
+  
   
 ];
 export const reviews = [
