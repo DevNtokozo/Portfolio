@@ -94,7 +94,7 @@ export const myProjects = [
   description:
     "A full-stack online learning platform designed to connect students, tutors, and parents through accessible, structured, and engaging educational resources.",
   subDescription: [
-    "Developed a full-stack online learning platform using React, Spring Boot, and MySQL to facilitate seamless interaction between students, tutors, and parents.",
+    "Developed a full-stack online learning platform using React, Spring Boot, and postgreSQL to facilitate seamless interaction between students, tutors, and parents.",
     "Implemented secure user authentication, course management, lesson scheduling, assignment submission, and progress tracking with complete CRUD functionality.",
   ],
   
