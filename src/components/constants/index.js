@@ -163,7 +163,7 @@ export const experiences = [
   {
     title: "QA Automation Engineer jr.",
     job: "Automation & Manual Testing",
-    date: "2025-2026",
+    date: "2025-Present",
     contents: [
      ' •	Experienced in designing and maintaining automated test scripts using tools like Selenium WebDriver and Cypress', 
       '•	Solid understanding of software testing principles, including functional, regression, integration, and system testing',
