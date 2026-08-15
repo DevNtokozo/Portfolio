@@ -49,7 +49,7 @@ export const myProjects = [
     
   ],
 
-  href: "",
+  href: "https://pinky-hearts-frontend-m0a2l7l4b-ntokozombuliz-5290s-projects.vercel.app/",
   logo: "",
   image: "/assets/projects/PinkyHearts.svg",
 
@@ -89,21 +89,18 @@ export const myProjects = [
 },
   {
   id: 3,
-  title: "HealthSync Hospital Management System",
+  title: "SmartLearnSA Management System",
 
   description:
-    "A full-stack hospital management system designed to streamline healthcare operations through secure patient, doctor, appointment, and medical record management.",
-
+    "A full-stack online learning platform designed to connect students, tutors, and parents through accessible, structured, and engaging educational resources.",
   subDescription: [
-    "Developed a full-stack healthcare management application using React, Spring Boot, and MySQL to digitize hospital administration and improve patient care workflows.",
-    "Implemented secure user authentication and role-based access while developing complete CRUD modules for doctors, patients, appointments, and medical records.",
-    
-    
+    "Developed a full-stack online learning platform using React, Spring Boot, and MySQL to facilitate seamless interaction between students, tutors, and parents.",
+    "Implemented secure user authentication, course management, lesson scheduling, assignment submission, and progress tracking with complete CRUD functionality.",
   ],
-
-  href: "",
+  
+  href: "https://smart-learn-sa-frontend.vercel.app/",
   logo: "",
-  image: "/assets/projects/HealthSync.svg",
+  image: "/assets/projects/smartLearnSA.svg",
 
   tags: [
     {
@@ -118,8 +115,8 @@ export const myProjects = [
     },
     {
       id: 3,
-      name: "MySQL",
-      path: "/assets/logos/mysql.svg",
+      name: "postgresql",
+      path: "/assets/logos/postgresql.svg",
     },
     {
       id: 4,

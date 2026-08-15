@@ -16,6 +16,7 @@ export default function Frameworks() {
     "javascript",
     "apache-jmeter",
     "react",
+    "postgresql",
     "postman",
     "tailwindcss",
     "selenium",
@@ -23,7 +24,7 @@ export default function Frameworks() {
     "playwright",
   ];
   return (
-    <div className="relative flex h-[15rem] w-full flex-col items-center justify-center">
+    <div className="relative flex h-60 w-full flex-col items-center justify-center">
       <OrbitingCircles iconSize={40}>
         {skills.map((skill, index) => (
           <Icon key={index} src={`assets/logos/${skill}.svg`} />
