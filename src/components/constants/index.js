@@ -89,7 +89,7 @@ export const myProjects = [
 },
   {
   id: 3,
-  title: "SmartLearnSA Management System",
+  title: "SmartLearnSA-Online Learning Platform",
 
   description:
     "A full-stack online learning platform designed to connect students, tutors, and parents through accessible, structured, and engaging educational resources.",
