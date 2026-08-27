@@ -161,9 +161,24 @@ export const mySocials = [
 
 export const experiences = [
   {
+    title: "Independent Software Tester",
+    job: "Automation & Manual Testing",
+    date: "2026-Present",
+    contents: [
+     ' •	Perform functional, exploratory, regression, and usability testing on web and mobile applications.', 
+      '•	Create and execute test cases based on project requirements.',
+      '•	Proficient in programming languages such as Java or JavaScript for test automation', 
+      '•	Identify, reproduce, and document software defects with clear steps and supporting evidence.', 
+      '•	Perform cross-browser and cross-device testing.',       
+      '•	Submit detailed bug reports and collaborate with project teams to validate defects.',
+      '•	Work on real-world crowdtesting projects through the uTest platform.',
+
+    ],
+  },
+  {
     title: "QA Automation Engineer jr.",
     job: "Automation & Manual Testing",
-    date: "2025-Present",
+    date: "2025-2026",
     contents: [
      ' •	Experienced in designing and maintaining automated test scripts using tools like Selenium WebDriver and Cypress', 
       '•	Solid understanding of software testing principles, including functional, regression, integration, and system testing',
