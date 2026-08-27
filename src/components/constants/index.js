@@ -161,7 +161,7 @@ export const mySocials = [
 
 export const experiences = [
   {
-    title: "Independent Software Tester",
+    title: "Software Quality Assurance Tester",
     job: "Automation & Manual Testing",
     date: "2026-Present",
     contents: [
