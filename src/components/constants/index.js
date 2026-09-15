@@ -37,56 +37,49 @@ export const myProjects = [
     ],
   },
   
-   {
+   
+{
   id: 2,
-  title: "Pinky Hearts Day Care Management System",
+  title: "ShopSphere QA Automation",
   description:
-    "A full-stack daycare management system for managing children, parents, teachers, classrooms, and daily operations.",
+    "A comprehensive QA automation project for testing an e-commerce application using UI automation, functional testing, regression testing, and automated test reporting.",
 
   subDescription: [
-    "Developed a full-stack daycare management system using React, Spring Boot, and MySQL to streamline childcare administration and improve operational efficiency.",
-    "Implemented secure user authentication, parent and child registration, teacher management, classroom management, and attendance tracking with complete CRUD functionality.",    
-    
+    "Developed a maintainable Selenium WebDriver automation framework using Java, TestNG, Maven, and the Page Object Model to automate critical e-commerce user journeys.",
+    "Implemented automated testing for login, product browsing, cart management, checkout, validation scenarios, and order completion using the SauceDemo application.",
+    "Created structured QA documentation covering requirements, test strategy, test plan, test scenarios, risk analysis, and detailed test cases.",
   ],
 
-  href: "https://pinky-hearts-frontend-m0a2l7l4b-ntokozombuliz-5290s-projects.vercel.app/",
+  href: "https://github.com/DevNtokozo/shopsphere-qa-automation",
   logo: "",
-  image: "/assets/projects/PinkyHearts.svg",
+  image: "/assets/projects/ShopSphereQA.svg",
 
   tags: [
     {
       id: 1,
-      name: "Postman",
-      path: "/assets/logos/postman.svg",
+      name: "Selenium",
+      path: "/assets/logos/selenium.svg",
     },
     {
       id: 2,
-      name: "React",
-      path: "/assets/logos/react.svg",
-    },
-    {
-      id: 3,
-      name: "MySQL",
-      path: "/assets/logos/mysql.svg",
-    },
-    {
-      id: 4,
-      name: "Spring Boot",
-      path: "/assets/logos/spring-boot.svg",
-    },
-    {
-      id: 5,
       name: "Java",
       path: "/assets/logos/java.svg",
     },
     {
-      id: 6,
-      name: "Tailwind CSS",
-      path: "/assets/logos/tailwindcss.svg",
-    },
+      id: 3,
+      name: "TestNG",
+      path: "/assets/logos/testng.svg",
+    },    
     
+    {
+      id: 6,
+      name: "GitHub",
+      path: "/assets/logos/github.svg",
+    },
   ],
 },
+
+
   {
   id: 3,
   title: "SmartLearnSA - Online Learning Platform",

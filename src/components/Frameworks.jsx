@@ -3,7 +3,7 @@ import { OrbitingCircles } from "./OrbitingCircles";
 export default function Frameworks() {
   const skills = [
     "github",
-    "cypress",
+    
     "mysql",
     "java",
     "css3",
@@ -11,10 +11,10 @@ export default function Frameworks() {
     "appium",
     "git",
     "chatgpt",
-    "intellij-idea",
+    
     "html5",
     "javascript",
-    "apache-jmeter",
+    
     "react",
     "postgresql",
     "postman",

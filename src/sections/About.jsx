@@ -14,19 +14,19 @@ const About = () => {
         {/* Grid 1 */}
         <div className='flex items-end grid-default-color grid-1'>
             <img src="assets/coding-pov.png" 
-            className="absolute scale-[1.75] -right-[5rem] -top-[1rem] 
+            className="absolute scale-[1.75] -right-20 -top-4 
             md:scale-[3] md:left-50 md:inset-y-10 lg:scale-[2.5] " />
             <div className='z-10'>
                 <p className='headtext'>Hi, I'm Ntokozo Mbuli</p>
                 <p className='subtext'>
                     Over the last couple of years, 
                     I have developed my QA technical skills 
-                    and honed in on my Java full-stack abilities as well.
+                    and honed in on my full-stack abilities as well.
                     These proficiencies are accompanied by a BSc Information Systems & Mathematics degree from UNISA.                       
                 </p>
             </div>
             <div className='absolute inset-x-0 pointer-events-none-bottom-4 h-1/2
-             sm:h-1/3 bg-gradient-to-t from-indigo' />
+             sm:h-1/3 bg-linear-to-t from-indigo' />
         </div>
         {/* Grid 2 */}        
         <div className='grid-default-color grid-2'>
@@ -64,7 +64,7 @@ const About = () => {
                 <p className='subtext'>Here are some of the technologies I've been working with:</p>
             </div>
             <div className='absolute inset-y-0 md:inset-y-9 w-full 
-            h-full start-[50%] md:scale-125'>
+            h-full inset-s-[50%] md:scale-125'>
                 <Frameworks/>
             </div>
         </div>      
