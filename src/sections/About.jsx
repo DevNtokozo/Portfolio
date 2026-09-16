@@ -43,7 +43,7 @@ const About = () => {
         <div className='grid-black-color grid-3'>
             <div className='z-10 w-[50%]'>
                 <p className='headtext '>Time Zone</p>
-                <p className='subtext '>I'm based in Johannesburg, South Africa, and open to remote and hybrid-roles.</p>
+                <p className='subtext '>I'm based in Johannesburg, South Africa, and open to remote, full-time and hybrid-roles.</p>
             </div>
             <figure className='absolute left-[30%] top-[10%] '>
                 <img src='/assets/world.svg' />
@@ -61,7 +61,7 @@ const About = () => {
         {/* Grid 5 */}
         <div className='grid-default-color grid-5'>
             <div className='z-10 w-[50%]'>
-                <p className='subtext'>Here are some of the technologies I've been working with:</p>
+                <p className='subtext'>Technologies I've been dabbling with:</p>
             </div>
             <div className='absolute inset-y-0 md:inset-y-9 w-full 
             h-full inset-s-[50%] md:scale-125'>
